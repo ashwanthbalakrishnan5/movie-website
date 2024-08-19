@@ -6,7 +6,7 @@ import store from "./store/home"
 import {BrowserRouter as Router} from "react-router-dom"
 
 ReactDOM.render(
-    <Router>
+    <Router basename="/movie-website">
         <App store={store} />
     </Router>
     , document.getElementById('root'));
