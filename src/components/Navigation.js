@@ -8,8 +8,9 @@ const logo = require('../images/logo.svg')
 const Navigation = observer(({ clearSearch}) => {
     return <header>
         <div className="menu-grid">
-            <div className="logo">
-                <img src={logo} alt="TMDB" />
+            <div className="title">
+                {/* <img src={logo} alt="TMDB" /> */}
+                <h1>Movies Information Site</h1>
             </div>
             <div className="nav-btn">
                 <Link to="/" onClick={clearSearch} className="btn">Popular Movies</Link>
