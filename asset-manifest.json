@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashwanthbalakrishnan5/movie-website/static/css/main.0bd7a8b5.css",
+    "main.js": "/ashwanthbalakrishnan5/movie-website/static/js/main.e14646d0.js",
+    "static/media/nullw500.png": "/ashwanthbalakrishnan5/movie-website/static/media/nullw500.1c14c7394554799b8cf9.png",
+    "static/media/logo.svg": "/ashwanthbalakrishnan5/movie-website/static/media/logo.6852b1ef4cd463c3a6326d990dc4e442.svg",
+    "index.html": "/ashwanthbalakrishnan5/movie-website/index.html",
+    "main.0bd7a8b5.css.map": "/ashwanthbalakrishnan5/movie-website/static/css/main.0bd7a8b5.css.map",
+    "main.e14646d0.js.map": "/ashwanthbalakrishnan5/movie-website/static/js/main.e14646d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bd7a8b5.css",
+    "static/js/main.e14646d0.js"
+  ]
+}
